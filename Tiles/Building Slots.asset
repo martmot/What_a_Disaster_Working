@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15982c6bcd4aefa4492bff6a97086780, type: 3}
+  m_Name: Building Slots
+  m_EditorClassIdentifier: 
+  Slots:
+  - {fileID: 2053263763779786352, guid: bfd6d78b441434f4a82b5dede98229f7, type: 3}
+  - {fileID: 2053263763779786352, guid: 88dec5a369d482542a65949969032cfa, type: 3}
+  - {fileID: 5047600196906629946, guid: 13c03bc8ebe144e48bb8a1c8ba831500, type: 3}
