@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Maxter GameJam.sln"
+    "dotnet.defaultSolution": "What_a_Disaster_Working.sln"
 }
